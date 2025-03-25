@@ -6,7 +6,7 @@
   prerequisites: |
     no-data
   test-data: |
-    Каталог содержит более 10 товаров
+    no-data
   steps:
     - Перейти на страницу каталога
     - Проверить, что товары отображаются постранично
@@ -21,7 +21,7 @@
   prerequisites: |
     no-data
   test-data: |
-    Категория "beauty"
+    no-data
   steps:
     - Выбрать категорию "beauty" в фильтре
   expected-result: |
@@ -34,7 +34,7 @@
   prerequisites: |
     no-data
   test-data: |
-    Ключевое слово: "Mascara"
+    no-data
   steps:
     - Ввести в поле поиска "Mascara"
     - Нажать кнопку "Enter"
@@ -48,7 +48,7 @@
   prerequisites: |
     no-data
   test-data: |
-    Товар: "Essence Mascara Lash Princess"
+    no-data
   steps:
     - Нажать кнопку "Add to cart"
     - Перейти в корзину
@@ -62,7 +62,7 @@
   prerequisites: |
     В корзине есть хотя бы один товар
   test-data: |
-    Товар: "Essence Mascara Lash Princess"
+    no-data
   steps:
     - Перейти в корзину
     - Нажать кнопку "Delete" "Essence Mascara Lash Princess"
@@ -104,7 +104,7 @@
   prerequisites: |
     no-data
   test-data: |
-    Данные карты: 4111 1111 1111 1111
+    no-data
   steps:
     - Ввести данные карты
     - Нажать кнопку "Buy"
