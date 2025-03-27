@@ -47,6 +47,7 @@
   test-data: |
     no-data
   steps:
+    - Выбрать любой товар
     - Нажать кнопку "Add to cart"
     - Перейти в корзину
   expected-result: |
