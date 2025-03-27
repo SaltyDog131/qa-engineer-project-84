@@ -63,9 +63,10 @@
     no-data
   steps:
     - Перейти в корзину
-    - Нажать кнопку "Delete" "Essence Mascara Lash Princess"
+    - Выбрать любой товар
+    - Нажать кнопку "Delete"
   expected-result: |
-    Товар " Essence Mascara Lash Princess " удален из корзины
+    Товар успешно удален из корзины
 
 - summary: |
     Проверка оформления заказа
