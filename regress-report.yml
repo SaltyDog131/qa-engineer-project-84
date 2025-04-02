@@ -28,4 +28,4 @@ test-cases:
     Проверка мобильной версии
   status: fail
 
-    bugreports: []
+bugreports: []
