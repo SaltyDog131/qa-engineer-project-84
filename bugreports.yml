@@ -55,7 +55,7 @@
   actual-result: |
     Переведена только шапка сайта и кнопки
 
-    - summary: |
+- summary: |
     Не работает поиск на русском языке
   environment: |
     Браузер: Google Chrome 133.0.6943.127
