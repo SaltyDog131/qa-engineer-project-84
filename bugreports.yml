@@ -41,7 +41,8 @@
     Открывается страница оформления заказа
   actual-result: |
     Ошибка 500
-    - summary: |
+    
+- summary: |
     Язык сайта не меняется
   environment: |
     Браузер: Google Chrome 133.0.6943.127
