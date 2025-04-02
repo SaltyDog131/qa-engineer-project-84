@@ -27,3 +27,5 @@ test-cases:
 - summary: |
     Проверка мобильной версии
   status: fail
+
+    bugreports: []
